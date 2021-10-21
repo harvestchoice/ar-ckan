@@ -14,7 +14,7 @@ pairtree==0.7.1-T
 ofs==0.4.1
 apachemiddleware==0.1.1
 markupsafe==0.15
-babel==0.9.6
+babel==2.9.1
 psycopg2==2.4.5
 webob==1.0.8
 Pylons==0.9.7
